@@ -1,0 +1,29 @@
+Steps for implementation in Python3. Replace with corresponding libraries, syntax and commands.
+
+
+import following libraries:
+  opencv, matplotlib, numpy, pandas, keras, tensorflow
+  
+create age groups: 16-25, 25-45, 45-60, 60+
+  
+take continuous heart rate input from ppg sensor store
+log values in a database
+  
+take continuous inputs from gsr sensors store
+log values in a database
+ 
+take continuous inputs from SpO2 sensor
+log values in a database 
+
+take continuous inputs from breath rate sensor
+log values in a database 
+  
+measure stress level by using gsr, temperature, breathing rate values
+log values
+
+if camera available, use opencv to scan
+store data
+
+
+  
+  
