@@ -24,6 +24,27 @@ log values
 if camera available, use opencv to scan
 store data
 
+Align assimilated data into stacks of individual people. 
+
+Ask people or record their mood
+
+Create training data set based on determined emotions
+
+Create chatbot with inputs
+
+Record responses from people with pre-determined emotions
+
+Filter keywords and store as another data set based on emotions. Assign words to different emotions (can overlap)
+
+Compile and align both datasets together. Use them independedently to reaffirm emotions
+
+import pyttsx3 for text-to-speech api
+
+design chatbot response system to convert chatbot into 2 types:
+  a) chatbot
+  b) voice assistant
+  
+
 
   
   
